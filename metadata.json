@@ -1,0 +1,6 @@
+{
+  "name": "AirQo Pollution Visualization",
+  "description": "Visualizing air quality data from AirQo API on Google Maps with Heatmaps and Marker Clusters.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
